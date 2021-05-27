@@ -1,2 +1,3 @@
 # CS
- Comprensión y Seguridad
+ Práctica de la asignatura de Comprensión y Seguridad
+ Ingeniería Multimedia
